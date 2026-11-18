@@ -5,9 +5,11 @@ $${\color{#e09bc8}\Huge{\texttt{omg hi!!}}}$$
 </p>
 <br><br>
 
-<div align="center">
-  <img src="https://igorkowalczyk.dev" alt="Profile Views" />
-</div>
+![HTML5](https://shields.io)
+
+
+
+
 
 
 
