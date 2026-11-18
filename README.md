@@ -5,5 +5,10 @@ $${\color{#e09bc8}\Huge{\texttt{omg hi!!}}}$$
 </p>
 <br><br>
 
+<!-- Centered and resized GIF -->
+<p align="left">
+  <img src="nekomimiyu-mii.webp" width="230" alt="My Profile Animation">
+</p>
+<br><br>
 
 
