@@ -6,8 +6,9 @@ $${\color{#e09bc8}\Huge{\texttt{omg hi!!}}}$$
 <br><br>
 
 <div align="center">
-  <img src="https://shields.io" alt="silar" />
+  <img src="https://igorkowalczyk.dev" alt="Profile Views" />
 </div>
+
 
 
 
