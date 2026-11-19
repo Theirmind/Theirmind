@@ -80,16 +80,14 @@ $${\color{#e09bc8}\Huge{\texttt{omg hi!!}}}$$
 
 <br/>
 
-<div align="center">
-  <sub>‧₊˚✩彡 ─────── ♡ ─────── 彡✩˚₊‧</sub><br/><br/>
-  <sub><i>please wait for result, still working... &bull; @doomtherapist</i></sub>
-</div>
+<!-- Centered and resized GIF -->
+<p align="center">
+  <img src="pink-delta-rune.gif" width="204" alt="My Profile Animation"
 
+<br/> 
 
+thanks for checking out my profile!! 
 
+<br/>
 
-
-
-
-
-
+please come back for more updates! 
