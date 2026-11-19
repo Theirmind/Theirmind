@@ -67,9 +67,9 @@ $${\color{#e09bc8}\Huge{\texttt{omg hi!!}}}$$
       <td width="270" valign="top">
         <b>♡ before you follow</b><br/><br/>
         <sub>
-          &bull; i post art &amp; web experiments<br/>
+          &bull; I like playing video games &amp; web experiments<br/>
           &bull; replies might be slow (GMT+7)<br/>
-          &bull; always happy to chat about art
+          &bull; always happy to chat about art! 
         </sub>
       </td>
     </tr>
