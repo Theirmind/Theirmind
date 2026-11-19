@@ -18,7 +18,7 @@ $${\color{#e09bc8}\Huge{\texttt{omg hi!!}}}$$
     <td width="34%" align="center" valign="top">
       <img src="anime.gif" alt="Avatar" width="205" />
       <br/><br/>
-      <b>@doomtherapist</b><br/>
+      <b>look there!</b><br/>
       <sub><i>character artist &amp; web tinkerer</i></sub>
       <br/><br/>
       <img src="nekomimiyu-mii.webp" alt="Art Status" />
