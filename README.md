@@ -2,7 +2,7 @@
 
 <img src="videoframe_1048.png" alt="Header Image" width="100%" />
 
-# Panthera Uncia
+# paw at you
 
 *just a quiet spot on the peaks for art, notes, and random ideas.*
 
