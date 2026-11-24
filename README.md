@@ -1,52 +1,113 @@
 <div align="center">
 
-<img src="videoframe_1048.png" alt="Header Image" width="100%" />
+### <code><span style="color: #808080;">WELCOME TO THE ARCHIVE</span></code>
+<sub>Visual Storytelling • Character Lore • Personal Web Spaces</sub>
 
-# paw at you
+<br>
 
-*just a quiet spot on the peaks for art, notes, and random ideas.*
-
-</div>
-
----
-
-### about me
-
-hey there. i spend most of my time drawing, tinkering with characters, and collecting bits of visual inspiration. i tend to keep things pretty chill and low-key, mostly drawn to quiet, wintry aesthetics and every kind of leopard out there—especially snow leopards. this page is just a personal corner to keep my creative stuff organized away from the noise.
-
----
-
-### what's inside
-
-* **finished stuff** — polished pieces and completed work ready to look at
-* **drafts & sketches** — messy notes, early ideas, and works in progress
-* **moodboards** — saved references, visual inspiration, and stray thoughts
-* **updates** — a loose log of what i've been adding or changing lately
-
----
-
-### current focus
-
-> *"moving quietly through snow and granite."*
-
-* **main project** — drop a quick note here about the main thing you're creating right now
-* **side project** — something smaller you're tinkering with on the side
-* **later down the road** — an idea sitting on the back burner for another day
-
----
-
-### little things i like
-
-* **atmosphere** — crisp mountain air, overcast skies, and quiet late nights
-* **details** — clean character silhouettes, soft monochrome palettes, and subtle textures
-* **pace** — taking time with ideas and letting projects grow without rushing them
-
----
-
-<div align="center">
-
-<img src="videoframe_949.png" alt="Footer GIF" width="300" />
+<kbd>CHARACTER DESIGN</kbd> &nbsp; <kbd>IBISPAINT</kbd> &nbsp; <kbd>MONOCHROME</kbd> &nbsp; <kbd>GMT+7</kbd>
 
 </div>
 
-more updates coming soon • just come back for more updates
+---
+
+### `01 // OVERVIEW`
+
+```text
+> Welcome. Feel free to look around this personal archive.
+> Focused on original character design, digital art, and indie web layouts.
+> Inspired by snow leopards, black-and-white contrast, and quiet spaces.
+```
+
+> *Thoughtful, creative, and chill — building small visual worlds and organizing original concepts piece by piece.*
+
+---
+
+### `02 // ARCHIVE INDEX`
+
+| Code | Domain | Description | Status |
+| :--- | :--- | :--- | :--- |
+| **`ARC-01`** | **Character Lore** | Original designs, distinct personalities, and interconnected stories | `DEVELOPING` |
+| **`ARC-02`** | **Visual Studies** | High-contrast black-and-white artwork, lighting, and atmosphere | `ACTIVE` |
+| **`ARC-03`** | **Web Spaces** | Minimal single-page layouts, directories, and indie web experiments | `CURATING` |
+| **`ARC-04`** | **Concept Vault** | Rough sketches, visual motifs, and unfinished worldbuilding notes | `ARCHIVING` |
+
+---
+
+### `03 // FIELD NOTES`
+
+<details>
+<summary><b><code>[+] Note 01 — Creative Direction & Aesthetics</code></b></summary>
+<br>
+
+* **Visuals:** Pure black-and-white contrast, soft greyscale shadows, and quiet editorial layouts.
+* **Motifs:** Snow leopards, subtle architectural lines, and atmospheric storytelling.
+* **Approach:** Keeping spaces uncluttered so individual character details stand out.
+
+</details>
+
+<details>
+<summary><b><code>[+] Note 02 — Tools & Palette</code></b></summary>
+<br>
+
+```text
+ILLUSTRATION   ::  ibisPaint
+WEB STRUCTURE  ::  Minimal HTML / CSS / Markdown
+PALETTE        ::  #000000 (Black) • #808080 (Grey) • #FFFFFF (White)
+TIMEZONE       ::  GMT+7
+```
+
+</details>
+
+<details>
+<summary><b><code>[+] Note 03 — Current Focus</code></b></summary>
+<br>
+
+* Refining original character silhouettes and expression sheets.
+* Experimenting with black-and-white web directories and guestbook layouts.
+* Organizing visual lore into clean, readable records.
+
+</details>
+
+---
+
+<table>
+  <tr>
+    <td width="140" align="center">
+      <img src="bd78a053-c187-4007-86b1-89c201b5d3fc.jpeg" width="120" alt="Archive Photo" />
+    </td>
+    <td>
+      <blockimg>
+        <em>"great."</em>
+      </blockquote>
+      <sub>— your dog</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<details>
+<summary><b><code> About Me — Personal Summary</code></b></summary>
+<br>
+
+```text
+DISPOSITION  ::  Thoughtful • Creative • Chill
+TIMEZONE     ::  GMT+7
+PASTIMES     ::  Sketching in ibisPaint, building quiet web layouts, worldbuilding
+MOTIFS       ::  black-and-white contrast, late-night solitude
+```
+
+> Moving at an unhurried pace—spending quiet hours designing original characters, experimenting with minimal monochrome pages, and collecting pieces of atmospheric stories along the way.
+
+</details>
+
+<br>
+
+**`[ AUDIO // TRACK ]`**
+
+<a href="https://youtube.com">
+  <img src="133c26cd-3354-484a-b4ce-69cf2108a1b6.jpeg" width="310" alt="Archive Track Thumbnail" />
+</a>
+
+
