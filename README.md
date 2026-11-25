@@ -1,7 +1,7 @@
 <div align="center">
 
-### <code><span style="color: #808080;">WELCOME TO THE ARCHIVE</span></code>
-<sub>Visual Storytelling • Character Lore • Personal Web Spaces</sub>
+### <code><span style="color: #808080;">hello</span></code>
+<sub>Character Lore • Personal Web Spaces</sub>
 
 <br>
 
@@ -106,7 +106,7 @@ MOTIFS       ::  black-and-white contrast, late-night solitude
 
 **`[ AUDIO // TRACK ]`**
 
-<a href="https://youtube.com">
+<a href="[https://youtube.com](https://youtu.be/dQw4w9WgXcQ?si=tyYcYDDr03I74tML)">
   <img src="133c26cd-3354-484a-b4ce-69cf2108a1b6.jpeg" width="310" alt="Archive Track Thumbnail" />
 </a>
 
