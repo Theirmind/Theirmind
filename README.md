@@ -106,7 +106,7 @@ MOTIFS       ::  black-and-white contrast, late-night solitude
 
 **`[ do not click ]`**
 
-<a href="[https://youtube.com](https://youtu.be/dQw4w9WgXcQ?si=tyYcYDDr03I74tML)">
+<a href="https://youtu.be/dQw4w9WgXcQ?si=tyYcYDDr03I74tML">
   <img src="IMG_4f415737-8bea-42c5-944a-51dcda85e693.jpg" width="120" alt="Archive Track Thumbnail" />
 </a>
 
